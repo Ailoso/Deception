@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Preload>
+<Actor id="SYSTEM_ActorConfig"/>
+<Actor id="BattleStation_CliffPlatform" Variations="10,13"/>
+<Actor id="BattleStation_Symbol_Decals" Variations="2,6"/>
+<Actor id="BlastCratersDoodad" Variations="0,1"/>
+<Actor id="BrokenRocks" Variations="6"/>
+<Actor id="CompoundSewer_Pipes" Variations="4"/>
+<Actor id="DesertCaveEntrance"/>
+<Actor id="Elsecaro_Rock_Ramp" Variations="1"/>
+<Actor id="Elsecaro_Small_Rock_Group" Variations="0,1,2,3"/>
+<Actor id="Fog_Aiur"/>
+<Actor id="GenericSpacePipes" Variations="0"/>
+<Actor id="HybridWallConsoles" Variations="2"/>
+<Actor id="JarbanMinor_Blast_Craters_Big" Variations="2"/>
+<Actor id="JarbanMinor_FenceBarbwire" Variations="0,1,2,3"/>
+<Actor id="JarbanMinor_IndustrialGarage" Variations="0"/>
+<Actor id="Korhal_Platform_LandingLights" Variations="0,3"/>
+<Actor id="Korhal_Platform_TireMarks" Variations="0"/>
+<Actor id="Shadow_Asteroids" Variations="0,1"/>
+<Actor id="Slayn_TallGrassWindy" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="Tarsonis_DeadMarine" Variations="0,3"/>
+<Actor id="UmojanLabCrates" Variations="0,1,2,3,4"/>
+<Actor id="Checkpoint"/>
+<Actor id="BraxisAlphaBioDome" Variations="2"/>
+<Actor id="Decal" Variations="3"/>
+<Actor id="MarSaraBridgeLong" Variations="0"/>
+<Actor id="MarSaraGroundProps" Variations="0,1,2,3,4"/>
+<Actor id="WreckedNomad"/>
+<Actor id="WreckedVehicles" Variations="0,3,5"/>
+<Actor id="XilTree" Variations="0,1,2,3,4,5,6,7"/>
+<Actor id="WreckedCargoTruck" Variations="0,1,2,3"/>
+<Actor id="TyphonTree" Variations="0,1,2,3,4,5,6"/>
+<Actor id="TrainDockingDoor"/>
+<Actor id="BillboardPropaganda" Variations="3"/>
+<Actor id="TerrainObjectCoolantPipesDoodad" Variations="1"/>
+<Light id="MarSaraCampaignNight"/>
+<Model id="FirebatPortrait"/>
+<Model id="Marine2Portrait"/>
+<Model id="Marine5Portrait"/>
+<Model id="PortraitSargento"/>
+<Terrain id="MarSaraEx1"/>
+<TerrainObject id="TerrainObjectCoolantPipes2_1"/>
+<Unit id="Marine"/>
+<Unit id="Hatchery"/>
+<Unit id="Extractor"/>
+<Unit id="SpawningPool"/>
+<Unit id="EvolutionChamber"/>
+<Unit id="HydraliskDen"/>
+<Unit id="Spire"/>
+<Unit id="SporeCrawler"/>
+<Unit id="Hive"/>
+<Unit id="Drone"/>
+<Unit id="Zergling"/>
+<Unit id="Overlord"/>
+<Unit id="Hydralisk"/>
+<Unit id="Mutalisk"/>
+<Unit id="Beacon_Terran"/>
+<Unit id="MineralField" Variations="0,1,2,3,4,5,6,7,8,9"/>
+<Unit id="EnemyPathingBlocker2x2"/>
+<Unit id="Firebat"/>
+<Unit id="Goliath"/>
+<Unit id="Scourge"/>
+<Unit id="PortCity_Bridge_UnitNE8" Variations="0"/>
+<Unit id="PortCity_Bridge_UnitSW8" Variations="0"/>
+<Unit id="SunkenColony"/>
+<Unit id="Sargento"/>
+</Preload>
